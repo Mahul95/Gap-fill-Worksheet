@@ -7,4 +7,4 @@ def worksheet(text):
     #split the list into each line
     lined_sentences = text.split(".",\n)
     gap_sentences = lined_sentences.replace("He","he","I":"_____")
-    		return gap_sentences
+    	return gap_sentences
